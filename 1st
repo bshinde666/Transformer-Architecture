@@ -3,3 +3,7 @@
 *   **Parallel Processing:** They process all words at the exact same time instead of one after another, making them extremely fast and capable of handling massive datasets.
 *   **Transfer Learning:** They can learn general knowledge first, and then be quickly and cheaply fine-tuned for specific tasks like translation or chatbots. 
 *   **Multimodality:** They can seamlessly interpret and generate across different data types, such as fusing text, images, audio, and video all at once.
+
+
+
+
