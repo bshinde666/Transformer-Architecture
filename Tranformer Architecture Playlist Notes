@@ -1,4 +1,4 @@
--- 1st -- 
+-- 1st video -- 
 
 **Recurrent Neural Networks (RNNs)** ultimately failed because they process information **sequentially**, passing words one after another and constantly updating a limited "memory context". This design creates several massive bottlenecks:
 *   **The Vanishing Gradient Problem:** Because the memory updates with every new word, RNNs quickly forget the beginning of a sentence by the time they reach the end. 
@@ -16,7 +16,7 @@
 *   **Multimodality:** Finally, Transformers are not restricted to text; they can seamlessly process and fuse **images, text, audio, and video** to create deeply context-aware models.
 
 
--- 2nd --
+-- 2nd video --
 
 
 
