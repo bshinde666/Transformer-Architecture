@@ -1,3 +1,5 @@
+-- 1st -- 
+
 *   **Self-Attention:** They understand the exact context of words by mapping how they relate to the rest of the sentence.
 *   **Multi-Headed Attention:** They can hold multiple interpretations of confusing or ambiguous sentences at the same time (like "she saw the man with the telescope"), generating different maps of meaning to pick the right one based on context.
 *   **Parallel Processing:** They process all words at the exact same time instead of one after another, making them extremely fast and capable of handling massive datasets.
